@@ -5,7 +5,7 @@
         public static void RunMenu(List<Consultant> consultants)
         {
             string? choice = string.Empty;
-            Print.MessageToConsole("Welcome to the AW-Consultant Registry!\n");
+            Print.MessageToConsole("WELCOME TO THE AW-CONSULTANT REGISTRY");
 
             while (true)
             {
